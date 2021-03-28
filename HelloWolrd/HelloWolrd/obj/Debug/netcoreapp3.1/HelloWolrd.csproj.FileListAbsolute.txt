@@ -1,0 +1,13 @@
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\bin\Debug\netcoreapp3.1\HelloWolrd.exe
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\bin\Debug\netcoreapp3.1\HelloWolrd.deps.json
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\bin\Debug\netcoreapp3.1\HelloWolrd.runtimeconfig.json
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\bin\Debug\netcoreapp3.1\HelloWolrd.runtimeconfig.dev.json
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\bin\Debug\netcoreapp3.1\HelloWolrd.dll
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\bin\Debug\netcoreapp3.1\HelloWolrd.pdb
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\obj\Debug\netcoreapp3.1\HelloWolrd.csprojAssemblyReference.cache
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\obj\Debug\netcoreapp3.1\HelloWolrd.AssemblyInfoInputs.cache
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\obj\Debug\netcoreapp3.1\HelloWolrd.AssemblyInfo.cs
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\obj\Debug\netcoreapp3.1\HelloWolrd.csproj.CoreCompileInputs.cache
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\obj\Debug\netcoreapp3.1\HelloWolrd.dll
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\obj\Debug\netcoreapp3.1\HelloWolrd.pdb
+C:\Users\Junaid\Desktop\C#\HelloWolrd\HelloWolrd\obj\Debug\netcoreapp3.1\HelloWolrd.genruntimeconfig.cache

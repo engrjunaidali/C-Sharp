@@ -1,0 +1,15 @@
+C:\Users\Junaid\source\repos\POS\POS\bin\Debug\netcoreapp3.1\POS.exe
+C:\Users\Junaid\source\repos\POS\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+C:\Users\Junaid\source\repos\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+C:\Users\Junaid\source\repos\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+C:\Users\Junaid\source\repos\POS\POS\bin\Debug\netcoreapp3.1\POS.dll
+C:\Users\Junaid\source\repos\POS\POS\bin\Debug\netcoreapp3.1\POS.pdb
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.csprojAssemblyReference.cache
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.GenerateResource.cache
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CoreCompileInputs.cache
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.dll
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.pdb
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.genruntimeconfig.cache
+C:\Users\Junaid\source\repos\POS\POS\obj\Debug\netcoreapp3.1\POS.fmLogin.resources
